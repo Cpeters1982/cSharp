@@ -1,0 +1,8 @@
+/Users/b/Desktop/DOJO/c#/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.deps.json
+/Users/b/Desktop/DOJO/c#/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.json
+/Users/b/Desktop/DOJO/c#/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.dev.json
+/Users/b/Desktop/DOJO/c#/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/b/Desktop/DOJO/c#/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.pdb
+/Users/b/Desktop/DOJO/c#/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.AssemblyInfo.cs
+/Users/b/Desktop/DOJO/c#/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/b/Desktop/DOJO/c#/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.pdb
