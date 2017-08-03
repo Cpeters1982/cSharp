@@ -1,0 +1,8 @@
+/Users/b/Desktop/DOJO/c#/basic13/bin/Debug/netcoreapp1.1/basic13.deps.json
+/Users/b/Desktop/DOJO/c#/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.json
+/Users/b/Desktop/DOJO/c#/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.dev.json
+/Users/b/Desktop/DOJO/c#/basic13/bin/Debug/netcoreapp1.1/basic13.dll
+/Users/b/Desktop/DOJO/c#/basic13/bin/Debug/netcoreapp1.1/basic13.pdb
+/Users/b/Desktop/DOJO/c#/basic13/obj/Debug/netcoreapp1.1/basic13.AssemblyInfo.cs
+/Users/b/Desktop/DOJO/c#/basic13/obj/Debug/netcoreapp1.1/basic13.dll
+/Users/b/Desktop/DOJO/c#/basic13/obj/Debug/netcoreapp1.1/basic13.pdb

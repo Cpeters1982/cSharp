@@ -1,0 +1,8 @@
+/Users/b/Desktop/DOJO/c#/unboxing/bin/Debug/netcoreapp1.1/unboxing.deps.json
+/Users/b/Desktop/DOJO/c#/unboxing/bin/Debug/netcoreapp1.1/unboxing.runtimeconfig.json
+/Users/b/Desktop/DOJO/c#/unboxing/bin/Debug/netcoreapp1.1/unboxing.runtimeconfig.dev.json
+/Users/b/Desktop/DOJO/c#/unboxing/obj/Debug/netcoreapp1.1/unboxing.AssemblyInfo.cs
+/Users/b/Desktop/DOJO/c#/unboxing/bin/Debug/netcoreapp1.1/unboxing.dll
+/Users/b/Desktop/DOJO/c#/unboxing/bin/Debug/netcoreapp1.1/unboxing.pdb
+/Users/b/Desktop/DOJO/c#/unboxing/obj/Debug/netcoreapp1.1/unboxing.dll
+/Users/b/Desktop/DOJO/c#/unboxing/obj/Debug/netcoreapp1.1/unboxing.pdb

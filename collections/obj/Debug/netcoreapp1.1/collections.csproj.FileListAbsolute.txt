@@ -1,0 +1,8 @@
+/Users/b/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp1.1/collections.deps.json
+/Users/b/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.json
+/Users/b/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.dev.json
+/Users/b/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp1.1/collections.dll
+/Users/b/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp1.1/collections.pdb
+/Users/b/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp1.1/collections.AssemblyInfo.cs
+/Users/b/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp1.1/collections.dll
+/Users/b/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp1.1/collections.pdb
