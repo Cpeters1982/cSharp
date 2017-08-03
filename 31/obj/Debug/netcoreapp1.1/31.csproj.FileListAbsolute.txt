@@ -1,0 +1,8 @@
+/Users/b/Desktop/DOJO/c#/31/bin/Debug/netcoreapp1.1/31.deps.json
+/Users/b/Desktop/DOJO/c#/31/bin/Debug/netcoreapp1.1/31.runtimeconfig.json
+/Users/b/Desktop/DOJO/c#/31/bin/Debug/netcoreapp1.1/31.runtimeconfig.dev.json
+/Users/b/Desktop/DOJO/c#/31/obj/Debug/netcoreapp1.1/31.AssemblyInfo.cs
+/Users/b/Desktop/DOJO/c#/31/bin/Debug/netcoreapp1.1/31.dll
+/Users/b/Desktop/DOJO/c#/31/bin/Debug/netcoreapp1.1/31.pdb
+/Users/b/Desktop/DOJO/c#/31/obj/Debug/netcoreapp1.1/31.dll
+/Users/b/Desktop/DOJO/c#/31/obj/Debug/netcoreapp1.1/31.pdb
