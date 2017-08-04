@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Date / Time</title>
+</head>
+    @{
+    DateTime currentDate = DateTime.Now;
+    string formatDate = String.Format("{0:MMMM d, yyyy}", currentDate);
+    string formatTime = String.Format("{0:hh:mm tt}", currentDate);
+    }
+<body>
+
+
+    <style>
+        *{
+            font-family: Helvetica, sans-serif;
+        }
+        h2{
+            font-size: 150px;
+        }
+    </style>
+
+
+    <h1>CURRENT DATE / TIME:</h1>
+    <h2>@formatDate</h2>
+    <h2>@formatTime</h2>
+
+</body>
+</html>
